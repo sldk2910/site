@@ -2,13 +2,15 @@
 
 $a = 'Моя первая программа на PHP';
 echo $a;
-?.
+?>
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Заго</title>
+	<title>Заголовок</title>
 </head>
 <body>
-<?php echo $a; ?>
+<?php
+echo 'Текст';
+?>
 </body>
 </html>
