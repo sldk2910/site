@@ -6,9 +6,9 @@ echo $a;
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Заго</title>
 </head>
 <body>
-
+<?php echo $a; ?>
 </body>
 </html>
